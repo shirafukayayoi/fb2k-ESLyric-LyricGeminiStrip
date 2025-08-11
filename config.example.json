@@ -1,0 +1,22 @@
+{
+  "gemini": {
+    "enabled": false,
+    "api_key": "",
+    "model": "gemini-2.5-flash-lite",
+    "note": "Get your API key from https://aistudio.google.com/app/apikey"
+  },
+  "plugins": {
+    "kugou": {
+      "enabled": true
+    },
+    "musixmatch": {
+      "enabled": true
+    },
+    "netease": {
+      "enabled": true
+    },
+    "qqmusic": {
+      "enabled": true
+    }
+  }
+}

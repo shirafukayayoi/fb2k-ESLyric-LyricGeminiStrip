@@ -1,0 +1,32 @@
+# API Keys and sensitive configuration
+.env
+config.json
+*.key
+
+# Local configuration files
+local-config.js
+*-local.js
+*-private.js
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
