@@ -1,4 +1,4 @@
-# ESLyric-LyricGeminiStrip
+# fb2k-ESLyric-LyricGeminiStrip
 
 Enhanced lyric retrieval plugins for ESLyric with Gemini AI-powered title normalization for more accurate lyric fetching.
 
